@@ -12,7 +12,7 @@ ClienteMongo.connect(url, function(erro, banco){
             'email': 'marcello@teste.com' 
      };
 
-     banco.collection('minhaColecao').insertOne(objeto, function(erro, resultado){
+     banco.collection('produtos').insertOne(objeto, function(erro, resultado){
          if(erro) throw erro;
             console.log('um documento inserido...');
         });
