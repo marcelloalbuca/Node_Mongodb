@@ -15,7 +15,7 @@ ClienteMongo.connect("mongodb://localhost:27017/loja", function(err, db){
             if(err) return console.error(err);
             console.log('result of remove ' + result.result);
         
-            //criar 2 registros
+            //criar 5 registros
 
             var produto1 = {
                 nome: "guarana", 
