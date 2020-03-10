@@ -1,0 +1,23 @@
+{
+  "name": "node_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "InsertOne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelloalbuca/Node_Mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelloalbuca/Node_Mongodb/issues"
+  },
+  "homepage": "https://github.com/marcelloalbuca/Node_Mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.9.4"
+  }
+}
