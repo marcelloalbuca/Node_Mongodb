@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/marcelloalbuca/Node_Mongodb#readme",
   "dependencies": {
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "mongoose": "^5.9.4"
   }
 }
