@@ -18,6 +18,6 @@
   "homepage": "https://github.com/marcelloalbuca/Node_Mongodb#readme",
   "dependencies": {
     "mongodb": "^2.2.33",
-    "mongoose": "^5.9.4"
+    "mongoose": "^5.13.15"
   }
 }
